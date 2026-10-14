@@ -1,0 +1,25 @@
+{
+  "name": "quill",
+  "displayName": "Quill",
+  "version": "1.0.0",
+  "description": "Build Quill models, forms, rules and documents by talking it through with your AI assistant. Connects to your Quill organisation by browser sign-in.",
+  "author": {
+    "name": "Quill",
+    "url": "https://quilltasks.com"
+  },
+  "homepage": "https://quilltasks.com",
+  "repository": "https://github.com/pjalle/quill-plugin",
+  "license": "MIT",
+  "keywords": [
+    "quill",
+    "forms",
+    "documents",
+    "templates",
+    "validation"
+  ],
+  "icon": "./assets/logo.png",
+  "documentationUrl": "https://quilltasks.com/mcp/",
+  "supportUrl": "https://quilltasks.com/contact/",
+  "privacyPolicyUrl": "https://quilltasks.com/privacy/",
+  "termsOfServiceUrl": "https://quilltasks.com/terms/"
+}

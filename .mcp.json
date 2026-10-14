@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "quill": {
+      "type": "http",
+      "url": "https://api.quilltasks.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "quill-plugin",
+  "description": "The Quill plugin: build forms and documents.",
+  "owner": {
+    "name": "Quill",
+    "url": "https://quilltasks.com"
+  },
+  "plugins": [
+    {
+      "name": "quill",
+      "source": "./",
+      "description": "Build Quill models, forms, rules and documents by talking it through with your AI assistant. Connects to your Quill organisation by browser sign-in.",
+      "version": "1.0.0"
+    }
+  ]
+}
